@@ -66,6 +66,11 @@ var beavers = map[string]string{
   ( . .)
   c(")(")
 `,
+	"sunglasses": `
+  (\ /)
+  (-0-0-)
+  c(")(")
+`,
 }
 
 var beaverSayings = []string{
