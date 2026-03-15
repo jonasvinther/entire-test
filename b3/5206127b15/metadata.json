@@ -1,0 +1,30 @@
+{
+  "cli_version": "0.5.0",
+  "checkpoint_id": "b35206127b15",
+  "strategy": "manual-commit",
+  "branch": "main",
+  "checkpoints_count": 1,
+  "files_touched": [
+    "cmd/draw.go",
+    "cmd/root.go",
+    "go.mod",
+    "go.sum",
+    "main.go",
+    "unicorn"
+  ],
+  "sessions": [
+    {
+      "metadata": "/b3/5206127b15/0/metadata.json",
+      "transcript": "/b3/5206127b15/0/full.jsonl",
+      "content_hash": "/b3/5206127b15/0/content_hash.txt",
+      "prompt": "/b3/5206127b15/0/prompt.txt"
+    }
+  ],
+  "token_usage": {
+    "input_tokens": 12,
+    "cache_creation_tokens": 3925,
+    "cache_read_tokens": 161810,
+    "output_tokens": 3140,
+    "api_call_count": 10
+  }
+}
