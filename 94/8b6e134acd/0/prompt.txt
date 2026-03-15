@@ -1,0 +1,17 @@
+Great now we have unicorns and beavers. But the cli is named "unicorn". Let's come up with a new creative name for the cli.
+
+---
+
+I like sooscii
+
+---
+
+yes I did
+
+---
+
+Actually, I liked bestiary now that I think about it
+
+---
+
+I added a sunglass beaver. Let's build the binary again
