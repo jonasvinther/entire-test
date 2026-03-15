@@ -1,4 +1,4 @@
-module github.com/jonasvinther/unicorn-cli
+module github.com/jonasvinther/bestiary
 
 go 1.26.1
 

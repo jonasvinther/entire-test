@@ -7,9 +7,9 @@ import (
 )
 
 var rootCmd = &cobra.Command{
-	Use:   "unicorn",
-	Short: "Draw beautiful ASCII unicorns",
-	Long:  "A magical CLI tool for drawing ASCII unicorns in your terminal.",
+	Use:   "bestiary",
+	Short: "Draw beautiful ASCII animals",
+	Long:  "A magical CLI tool for drawing ASCII animals in your terminal.",
 	RunE: func(cmd *cobra.Command, args []string) error {
 		return cmd.Help()
 	},
